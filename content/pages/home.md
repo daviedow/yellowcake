@@ -3,7 +3,7 @@ template: HomePage
 slug: ""
 title: Waorani
 featuredImage: https://ucarecdn.com/5111ab5d-167b-4d55-ab97-834ef15f0cef/
-subtitle: Coffee with an impact.
+subtitle: Coffee with impact.
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
