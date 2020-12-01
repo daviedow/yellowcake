@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Waorani
-featuredImage: https://ucarecdn.com/df2eb220-f853-4292-81f8-88c3e9a249a7/
+featuredImage: https://ucarecdn.com/5111ab5d-167b-4d55-ab97-834ef15f0cef/
 subtitle: Coffee with a story.
 meta:
   description: This is a meta description.
