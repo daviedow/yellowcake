@@ -1,7 +1,6 @@
 siteTitle: Waorani
-siteUrl: 'https://waorani.netlify.app/'
-siteDescription: >-
-  Coffee with impact.
+siteUrl: https://waorani.netlify.app/
+siteDescription: Coffee with impact.
 socialMediaCard:
-  image: 'https://stvp-static-prod.s3.amazonaws.com/uploads/sites/2/2019/08/springvalley.png'
-googleTrackingId: 'UA-133175780-1'
+  image: https://ucarecdn.com/b58ab560-6bfb-4ef5-b48b-bda674d4c9d8/
+googleTrackingId: UA-133175780-1
