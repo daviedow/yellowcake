@@ -1,8 +1,7 @@
-siteTitle: Yellow Cake
-siteUrl: 'https://yellowcake.netlify.com'
+siteTitle: Waorani
+siteUrl: 'https://waorani.netlify.app/'
 siteDescription: >-
-  A starter project for creating lightning-fast websites with Gatsby v2 Netlify
-  CMS v2 and Uploadcare media library.
+  Coffee with impact.
 socialMediaCard:
-  image: 'https://ucarecdn.com/fcc8d148-a9a8-42ee-a793-0f12b1437f61/'
+  image: 'https://stvp-static-prod.s3.amazonaws.com/uploads/sites/2/2019/08/springvalley.png'
 googleTrackingId: 'UA-133175780-1'
