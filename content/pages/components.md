@@ -31,7 +31,7 @@ accordion:
 gallery:
   - alt: farm image
     image: https://ucarecdn.com/3341b108-2f4f-4e45-8a37-81729473c529/
-    title: The Farm
+    title: Our Farm
   - alt: plants
     image: https://ucarecdn.com/225cd73e-e283-439b-a8a6-f7eb21b32ee8/
     title: Healthy Plants
