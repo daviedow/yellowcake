@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ""
-title: Melco
-featuredImage: https://ucarecdn.com/1ae833e6-93e1-483e-b502-fbcb465aaf37/
-subtitle: Coffee with impact.
+title: "   "
+featuredImage: https://ucarecdn.com/5a3906d4-a00a-4f4e-a534-c4cda1fadc44/
+subtitle: ""
 meta:
   description: This is a meta description.
   title: Coffee with impact
