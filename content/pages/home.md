@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: "   "
-featuredImage: https://ucarecdn.com/cae6ef78-c83a-49c8-ab34-e7606f4fc8a0/
+featuredImage: https://ucarecdn.com/a0810b53-d753-445f-a956-89f4ef1deb1d/
 subtitle: ""
 meta:
   description: This is a meta description.
