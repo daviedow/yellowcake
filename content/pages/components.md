@@ -36,7 +36,7 @@ gallery:
     image: https://ucarecdn.com/225cd73e-e283-439b-a8a6-f7eb21b32ee8/
     title: Healthy Plants
   - alt: drying beans
-    image: https://ucarecdn.com/e567f090-3ce3-42c5-af96-95ca4ec29896/
+    image: https://ucarecdn.com/60e72641-301d-4701-9862-209f7773d468/
     title: Balanced Beans
 meta:
   description: This is a meta description.
