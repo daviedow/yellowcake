@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ""
-title: MeliGo
+title: Melco
 featuredImage: https://ucarecdn.com/e30e5cb5-942f-418e-ad8e-eb9b96d93937/
 subtitle: Coffee with impact.
 meta:
