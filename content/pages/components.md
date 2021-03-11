@@ -29,16 +29,16 @@ accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
 gallery:
-  - alt: yellow rope image
-    image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Yellow Rope
-  - alt: umbrellas
-    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Yellow Ice Cream
+  - alt: farm image
+    image: https://ucarecdn.com/3341b108-2f4f-4e45-8a37-81729473c529/
+    title: The Farm
+  - alt: plants
+    image: https://ucarecdn.com/225cd73e-e283-439b-a8a6-f7eb21b32ee8/
+    title: Healthy Plants
+  - alt: drying beans
+    image: https://ucarecdn.com/e567f090-3ce3-42c5-af96-95ca4ec29896/
+    title: Balanced Beans
 meta:
   description: This is a meta description.
-  title: Components Page
+  title: Coffee Heaven
 ---
