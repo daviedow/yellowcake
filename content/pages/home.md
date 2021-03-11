@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: MeliGo
-featuredImage: https://ucarecdn.com/5111ab5d-167b-4d55-ab97-834ef15f0cef/
+featuredImage: https://ucarecdn.com/e30e5cb5-942f-418e-ad8e-eb9b96d93937/
 subtitle: Coffee with impact.
 meta:
   description: This is a meta description.
