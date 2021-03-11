@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: components
 title: Coffee
-featuredImage: https://ucarecdn.com/d481f05f-8a38-48f0-aa24-735dc81d75df/
+featuredImage: https://ucarecdn.com/208a8571-5c42-4cba-90b6-4abd846d8dc8/
 subtitle: This is the coffee page subtitle.
 section1: >-
   ## This is a container component
