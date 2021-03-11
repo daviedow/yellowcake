@@ -36,8 +36,8 @@ gallery:
     image: https://ucarecdn.com/225cd73e-e283-439b-a8a6-f7eb21b32ee8/
     title: Healthy Plants
   - alt: drying beans
-    image: https://ucarecdn.com/60e72641-301d-4701-9862-209f7773d468/
-    title: Balanced Beans
+    image: https://ucarecdn.com/3bb8ffd2-3c78-48bc-878b-76530a86b19d/
+    title: Rainbow Beans
 meta:
   description: This is a meta description.
   title: Coffee Heaven
