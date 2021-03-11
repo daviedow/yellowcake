@@ -26,6 +26,6 @@
   transition: ease all 0.3s;
 }
 
-/* .LazyImage.faded {
+.LazyImage.faded {
   opacity: 1;
-} */
+}
