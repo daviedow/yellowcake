@@ -5,7 +5,7 @@ title: The Farm
 featuredImage: https://ucarecdn.com/6eea5558-3e59-4c2e-a12c-62ee46c007de/
 subtitle: Santa Clara
 section1: |-
-  ## Santa Rosa de Cabal, Risaralda, Colombia
+  ## On The Foothills Of Santa Rosa de Cabal, Risaralda, Colombia
 
   Farm story....
 section2: "##"
