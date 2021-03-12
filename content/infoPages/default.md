@@ -1,6 +1,6 @@
 ---
 template: DefaultPage
-slug: Our Story
+slug: default
 title: With Love
 featuredImage: https://ucarecdn.com/4fb5df4a-2684-4f80-ae49-8097272ea2bd/
 meta:
