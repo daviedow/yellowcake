@@ -79,18 +79,18 @@ export class Navigation extends Component {
               // }`}
             >
               <span
-                className={`NavLink Nav--GroupParent ${
-                  this.props.location.pathname.includes('posts') ||
-                  this.props.location.pathname.includes('blog') ||
-                  this.props.location.pathname.includes('post-categories')
-                    ? 'active'
-                    : ''
-                }`}
-                onClick={() => this.toggleSubNav('posts')}
-                onKeyDown={e => this.keyToggleSubNav(e, 'posts')}
-                tabIndex={0}
-                aria-label="Navigation"
-                role="button"
+                // className={`NavLink Nav--GroupParent ${
+                //   this.props.location.pathname.includes('posts') ||
+                //   this.props.location.pathname.includes('blog') ||
+                //   this.props.location.pathname.includes('post-categories')
+                //     ? 'active'
+                //     : ''
+                // }`}
+                // onClick={() => this.toggleSubNav('posts')}
+                // onKeyDown={e => this.keyToggleSubNav(e, 'posts')}
+                // tabIndex={0}
+                // aria-label="Navigation"
+                // role="button"
               >
                 {/* Blog
                 <div className="Nav--GroupLinks">
