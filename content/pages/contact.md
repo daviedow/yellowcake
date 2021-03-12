@@ -1,14 +1,14 @@
 ---
 template: ContactPage
 slug: contact
-title: Please Get In touch
+title: Please Get In Touch
 featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
 subtitle: We would Love To Hear From You...
 address: Heaton, Newcastle, England
 phone: +44 7730784641
 email: melissa@melgo.co
 locations:
-  - mapLink: ""
+  - mapLink: https://www.google.com.au/maps/place/South+Heaton,+Newcastle+upon+Tyne/@54.9847083,-1.5823752,15z/data=!3m1!4b1!4m5!3m4!1s0x487e70fcd12c733d:0x260fd138073c0242!8m2!3d54.9853496!4d-1.5815336
     lat: ""
     lng: ""
 meta:
