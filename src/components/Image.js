@@ -62,7 +62,7 @@ class Image extends React.Component {
       smallSrc,
       title = '',
       alt = '',
-      lazy = false
+      lazy = true
     } = this.props
 
     const isUploadcare = this.checkIsUploadcare(src),
