@@ -3,14 +3,15 @@ template: ComponentsPage
 slug: components
 title: Our Farm
 featuredImage: https://ucarecdn.com/6eea5558-3e59-4c2e-a12c-62ee46c007de/
-subtitle: Where It All Begins.
+subtitle: Santa Clara
 section1: >-
-  ## This is a container component
+  ## Santa Rosa de Cabal, Risaralda, Colombia
+
 
   A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
+  [Dictumst a ultrices mi](<>) a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
 section2: "##"
 video: https://ucarecdn.com/96d02f2a-c2e2-4ac1-9d53-c5fe2b02a663/
 videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
