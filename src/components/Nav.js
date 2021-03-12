@@ -74,9 +74,9 @@ export class Navigation extends Component {
             <NavLink to="/">Home</NavLink>
             <NavLink to="/components/">Coffee</NavLink>
             <div
-              className={`Nav--Group ${
-                this.state.activeSubNav === 'posts' ? 'active' : ''
-              }`}
+              // className={`Nav--Group ${
+              //   this.state.activeSubNav === 'posts' ? 'active' : ''
+              // }`}
             >
               <span
                 className={`NavLink Nav--GroupParent ${
