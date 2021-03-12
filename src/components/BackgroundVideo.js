@@ -74,4 +74,4 @@ class BackgroundVideo extends Component {
   }
 }
 
-// export default BackgroundVideo
+export default BackgroundVideo
