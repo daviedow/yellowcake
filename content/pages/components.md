@@ -10,7 +10,7 @@ section1: |-
   Farm story....
 section2: "##"
 video: https://ucarecdn.com/96d02f2a-c2e2-4ac1-9d53-c5fe2b02a663/
-videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
+videoPoster: https://ucarecdn.com/2503eaf3-c4e2-46a5-a5cb-15a3af7f46a5/
 videoTitle: Our Beans
 accordion:
   - description: Coffee Details
