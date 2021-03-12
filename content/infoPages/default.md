@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: Our Story
 title: "  "
-featuredImage: https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/
+featuredImage: https://ucarecdn.com/4fb5df4a-2684-4f80-ae49-8097272ea2bd/
 meta:
   description: test meta description
   title: Info
