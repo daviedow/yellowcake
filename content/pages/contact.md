@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Please Get In Touch
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
+featuredImage: https://ucarecdn.com/853b4350-c41d-4c49-a810-11d15c05667b/
 subtitle: We would Love To Hear From You...
 address: Heaton, Newcastle, England
 phone: +44 7730784641
