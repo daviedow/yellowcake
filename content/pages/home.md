@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ""
-title: "   "
-featuredImage: https://ucarecdn.com/3ea68392-24d6-4f59-a283-fd4518f4b975/
-subtitle: ""
+title: "   Melgo"
+featuredImage: https://ucarecdn.com/c5900f5c-3243-42ae-9b95-93f50f01c419/
+subtitle: Imports With Impact
 meta:
   description: This is a meta description.
   title: Coffee with impact
