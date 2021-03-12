@@ -6,7 +6,7 @@ featuredImage: https://ucarecdn.com/c5900f5c-3243-42ae-9b95-93f50f01c419/
 subtitle: Imports With Impact
 meta:
   description: This is a meta description.
-  title: Imports With Impact
+  title: Home
 ---
 
 
