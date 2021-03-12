@@ -1,9 +1,9 @@
 ---
 template: ComponentsPage
 slug: components
-title: Coffee
+title: Our Farm
 featuredImage: https://ucarecdn.com/6eea5558-3e59-4c2e-a12c-62ee46c007de/
-subtitle: This is the coffee page subtitle.
+subtitle: Where It All Begins.
 section1: >-
   ## This is a container component
 
