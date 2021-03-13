@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: components
 title: Santa Clara Farm
-featuredImage: https://ucarecdn.com/6bd53ccb-fcaa-43ee-ba90-a4cc557fa880/-/crop/1024x563/0,128/-/preview/
+featuredImage: https://ucarecdn.com/76d18e6e-94cc-4367-a46b-d793e6f52887/
 subtitle: "## **Altitude 1900m**"
 section1: |-
   ## Santa Rosa de Cabal, Risaralda, Colombia
@@ -21,13 +21,13 @@ accordion:
     title: Yellow Caturra
 gallery:
   - alt: Step 1
-    image: https://ucarecdn.com/c69bd83a-ac43-48c6-9662-aff1fb721fba/
+    image: https://ucarecdn.com/e2766a26-816a-4034-a30d-6bc46b2bd541/
     title: Step 1
   - alt: Step 2
-    image: https://ucarecdn.com/d8367b42-fd5d-4b75-8c85-385345aa4d9a/
+    image: https://ucarecdn.com/58bc2d42-743e-4df5-b68e-22f97cd568b0/
     title: Step 2
   - alt: Step 3
-    image: https://ucarecdn.com/f79d91ae-2056-4090-9b00-a7f57eff6234/
+    image: https://ucarecdn.com/1f1cf8a5-1ec0-4778-9f2a-e35c3e1b453d/
     title: Step 3
 meta:
   description: This is a meta description.
