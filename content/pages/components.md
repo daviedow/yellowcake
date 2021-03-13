@@ -1,11 +1,11 @@
 ---
 template: ComponentsPage
 slug: components
-title: The Farm
-featuredImage: https://ucarecdn.com/6eea5558-3e59-4c2e-a12c-62ee46c007de/
-subtitle: Santa Clara
+title: Santa Clara Farm
+featuredImage: https://ucarecdn.com/5f5226f4-cd7a-4e4a-a2fb-8b6e86542dd1/
+subtitle: "## **Altitude 1900m**"
 section1: |-
-  ## On The Foothills Of Santa Rosa de Cabal, Risaralda, Colombia
+  ## Santa Rosa de Cabal, Risaralda, Colombia
 
   Farm story....
 section2: "##"
@@ -20,15 +20,15 @@ accordion:
   - description: Coffee Details
     title: Yellow Caturra
 gallery:
-  - alt: farm image
-    image: https://ucarecdn.com/3341b108-2f4f-4e45-8a37-81729473c529/
-    title: Our Farm
-  - alt: plants
-    image: https://ucarecdn.com/225cd73e-e283-439b-a8a6-f7eb21b32ee8/
-    title: Healthy Plants
-  - alt: drying beans
-    image: https://ucarecdn.com/3bb8ffd2-3c78-48bc-878b-76530a86b19d/
-    title: Rainbow Beans
+  - alt: Step 1
+    image: https://ucarecdn.com/9332c92c-2cc5-4521-b035-776927573874/
+    title: Step 1
+  - alt: Step 2
+    image: https://ucarecdn.com/d8367b42-fd5d-4b75-8c85-385345aa4d9a/
+    title: Step 2
+  - alt: Step 3
+    image: https://ucarecdn.com/f79d91ae-2056-4090-9b00-a7f57eff6234/
+    title: Step 3
 meta:
   description: This is a meta description.
   title: Coffee Heaven
