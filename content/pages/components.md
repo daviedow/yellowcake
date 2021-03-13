@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: components
 title: Santa Clara Farm
-featuredImage: https://ucarecdn.com/5f5226f4-cd7a-4e4a-a2fb-8b6e86542dd1/
+featuredImage: https://ucarecdn.com/6bd53ccb-fcaa-43ee-ba90-a4cc557fa880/
 subtitle: "## **Altitude 1900m**"
 section1: |-
   ## Santa Rosa de Cabal, Risaralda, Colombia
