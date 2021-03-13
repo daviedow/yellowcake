@@ -3,14 +3,14 @@ template: ComponentsPage
 slug: components
 title: Santa Clara Farm
 featuredImage: https://ucarecdn.com/76d18e6e-94cc-4367-a46b-d793e6f52887/
-subtitle: "## **Altitude 1900m**"
+subtitle: "### **Altitude - 1900m**"
 section1: |-
-  ## Santa Rosa de Cabal, Risaralda, Colombia
+  ## Risaralda, Colombia
 
   Farm story....
 section2: "##"
 video: https://ucarecdn.com/96d02f2a-c2e2-4ac1-9d53-c5fe2b02a663/
-videoPoster: https://ucarecdn.com/2503eaf3-c4e2-46a5-a5cb-15a3af7f46a5/
+videoPoster: https://ucarecdn.com/6aa5dac3-1802-457b-9ee9-dfd9c661c65d/
 videoTitle: Our Beans
 accordion:
   - description: Coffee Details
