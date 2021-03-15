@@ -1,10 +1,12 @@
 ---
 template: ComponentsPage
 slug: components
-title: Colombia -Finca Santa Clara
+title: Finca Santa Clara
 featuredImage: https://ucarecdn.com/76d18e6e-94cc-4367-a46b-d793e6f52887/
-subtitle: "### Micro Lot Single Origin"
+subtitle: "### Colombia"
 section1: |-
+  ## **Single Origin Micro Lot**
+
   **Region -** Santa Rosa de Cabal, Risaralda
 
   **Altitude -** 1900 masl
