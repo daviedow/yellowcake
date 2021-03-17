@@ -12,7 +12,7 @@ locations:
     lat: ""
     lng: ""
 meta:
-  description: This is a meta description.
+  description: " "
   title: Contact Page
 ---
 #
