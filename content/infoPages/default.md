@@ -4,8 +4,8 @@ slug: default
 title: With Love
 featuredImage: https://ucarecdn.com/4fb5df4a-2684-4f80-ae49-8097272ea2bd/
 meta:
-  description: test meta description
-  title: Info
+  description: " "
+  title: Our Story
 ---
 ## This is the DefaultPage template
 
