@@ -38,6 +38,6 @@ gallery:
     image: https://ucarecdn.com/1f1cf8a5-1ec0-4778-9f2a-e35c3e1b453d/
     title: Step 3
 meta:
-  description: This is a meta description.
+  description: " "
   title: Coffee Heaven
 ---
