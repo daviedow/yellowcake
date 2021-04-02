@@ -1,8 +1,8 @@
 ---
 template: DefaultPage
 slug: default
-title: With Love
-featuredImage: https://ucarecdn.com/4fb5df4a-2684-4f80-ae49-8097272ea2bd/
+title: "With love from Colombia. "
+featuredImage: https://ucarecdn.com/ce0d8b01-3760-481a-83ee-fde9eab9dfaa/
 meta:
   description: " "
   title: Our Story
