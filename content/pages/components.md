@@ -4,10 +4,11 @@ slug: components
 title: Finca Santa Clara
 featuredImage: https://ucarecdn.com/76d18e6e-94cc-4367-a46b-d793e6f52887/
 subtitle: "### Colombia"
-section1: <iframe width="560" height="315"
+section1: <center><iframe width="560" height="315"
   src="https://www.youtube.com/embed/VeFucVagRkY" title="YouTube video player"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe></center>
 section2: |-
   ## **Single Origin Micro Lot**
 
