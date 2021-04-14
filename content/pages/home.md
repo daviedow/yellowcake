@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: "   Melgo"
-featuredImage: https://ucarecdn.com/210d433e-afed-454c-873b-9537559bba20/
+featuredImage: https://ucarecdn.com/42d707c8-35e2-42d5-9100-96a4e0c1989e/
 subtitle: Imports With Impact
 meta:
   description: Imports With Impact
