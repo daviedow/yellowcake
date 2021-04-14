@@ -4,7 +4,11 @@ slug: components
 title: Finca Santa Clara
 featuredImage: https://ucarecdn.com/76d18e6e-94cc-4367-a46b-d793e6f52887/
 subtitle: "### Colombia"
-section1: |-
+section1: <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/VeFucVagRkY" title="YouTube video player"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+section2: |-
   ## **Single Origin Micro Lot**
 
   **Region -** Santa Rosa de Cabal, Risaralda
@@ -16,7 +20,6 @@ section1: |-
   **Varietal** - Typica, Caturra & Yellow Caturra 
 
   **Score** - 85.68
-section2: "##"
 video: https://ucarecdn.com/96d02f2a-c2e2-4ac1-9d53-c5fe2b02a663/
 videoPoster: https://ucarecdn.com/6aa5dac3-1802-457b-9ee9-dfd9c661c65d/
 videoTitle: Our Beans
