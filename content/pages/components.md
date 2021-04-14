@@ -13,7 +13,7 @@ section1: >-
   plantation pouring out.
 
 
-  She wants to share her exquisitely delicate high altitude coffee (1,900 meters above sea level) from her micro-farm located in a nature reserve fed by the Campo Alegrito river that flows down from the snowy peaks in Santa Rosa de Cabal, Colombia.
+  She wants to share the exquisitely delicate high altitude coffee (1,900 meters above sea level) from her micro-farm located in a nature reserve fed by the Campo Alegrito river that flows down from the snowy peaks in Santa Rosa de Cabal, Colombia.
 
 
   The coffee is washed in the mountain waters in amongst an advanced ecological system, and after its honey and washing residues go to purification tanks before the land receives them back as a magnificent compost.
@@ -22,7 +22,7 @@ section1: >-
   The pulp of this coffee gets sent to the United States to make delicious infusions and it has been classified among the 13 best farms for its taste and standout ecological practices.
 
 
-  Together with her partner Patricia Castañeda, they work in the local community as teachers in addition to taking care of their amazing coffee plantation and nature reserve. Over the course of 5 years they have planted more than 4,000 trees to develop a project known as "A coffee to heal the forest"
+  Together with her partner Patricia Castañeda, they work in the local community as teachers in addition to taking care of their amazing coffee plantation and nature reserve. Over the course of 5 years, they have planted more than 4,000 trees to develop a beautiful project known as "A coffee to heal the forest"
 section2: >-
   
   <iframe width="560" height="315" src="https://www.youtube.com/embed/VeFucVagRkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
