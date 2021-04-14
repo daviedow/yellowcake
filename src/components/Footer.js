@@ -5,7 +5,7 @@ export default () => (
   <div>
     <h2 className="taCenter">
       Follow us{' '}
-      <a href="https://www.instagram.com/melgo.co/">@melgo.co</a>
+      <a href="https://www.instagram.com/melgo.co/">Instagram</a>
     </h2>
     <br />
     <footer className="footer">
