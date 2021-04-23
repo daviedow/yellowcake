@@ -37,15 +37,15 @@ accordion:
   - description: Coffee Details
     title: Yellow Caturra
 gallery:
-  - image: https://ucarecdn.com/f01c4757-d953-4d79-8739-9cac5a8bd588/
-    title: ""
-    alt: Caturra
-  - image: https://ucarecdn.com/57a40759-6abf-4564-bf8f-c578d50dad5d/
-    title: ""
-    alt: Yellow Caturra
-  - image: https://ucarecdn.com/30984b37-4da6-4526-9841-5d5ba31b9cb6/
+  - image: https://ucarecdn.com/973dc0d9-7b52-4a56-91e6-9dda080bed30/
+    title: Typica
     alt: Typica
-    title: ""
+  - image: https://ucarecdn.com/15a24b43-5976-4c5b-a93e-2752d66988e1/
+    alt: Yellow Caturra
+    title: Yellow Caturra
+  - image: https://ucarecdn.com/ccc823b2-a7e4-44b9-8194-02ab77340048/
+    alt: Caturra
+    title: Caturra
 meta:
   description: " "
   title: Coffee Heaven
