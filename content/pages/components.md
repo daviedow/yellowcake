@@ -30,22 +30,22 @@ video: https://ucarecdn.com/96d02f2a-c2e2-4ac1-9d53-c5fe2b02a663/
 videoPoster: https://ucarecdn.com/6aa5dac3-1802-457b-9ee9-dfd9c661c65d/
 videoTitle: Our Beans
 accordion:
-  - description: Picking the ripe beans
-    title: Searching
-  - description: Removing the pulp
-    title: Extraction
-  - description: Choosing only the best by hand
-    title: Selection
+  - description: Coffee details
+    title: Typica
+  - description: Coffee details
+    title: Yellow Caturra
+  - description: Coffee details
+    title: Caturra
 gallery:
   - image: https://ucarecdn.com/bf0f1e50-ecce-42e4-90f0-60c3e603a4ff/
-    title: Typica
-    alt: Typica
+    title: Searching
+    alt: Searching
   - image: https://ucarecdn.com/9b629e1b-5a5d-46c2-a8f1-557d265f83a5/
-    alt: Yellow Caturra
-    title: Yellow Caturra
+    alt: Removing the pulp
+    title: Removing the pulp
   - image: https://ucarecdn.com/122051db-5b8c-471a-8e20-a9efe12c80b7/
-    alt: Caturra
-    title: Caturra
+    alt: Selecting only the best
+    title: Selecting only the best
 meta:
   description: " "
   title: Coffee Heaven
