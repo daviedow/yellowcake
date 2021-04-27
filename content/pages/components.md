@@ -13,10 +13,10 @@ section1: >-
   plantation pouring out.
 
 
-  She wants to share the exquisitely delicate high altitude coffee (1,900 meters above sea level) from her micro-farm located in a nature reserve fed by the Campo Alegrito river that flows down from the snowy peaks in Santa Rosa de Cabal, Colombia.
+  She longs to share the exquisitely delicate high altitude coffee (1,900 meters above sea level) with the world. Her micro-farm located in a nature reserve fed by the Campo Alegrito river that flows down from the snowy peaks in Santa Rosa de Cabal, Colombia.
 
 
-  The coffee is washed in the mountain waters in amongst an advanced ecological system, and after its honey and washing residues go to purification tanks before the land receives them back as a magnificent compost.
+  The coffee is washed in the mountain waters from an advanced ecological system, and after its honey and washing residues go into purification tanks before the land receives them back as a nurishing compost.
 
 
   The pulp of this coffee gets sent to the United States to make delicious infusions and it has been classified among the 13 best farms for its taste and standout ecological practices.
