@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
 slug: default
-title: "                          "
+title: "                  "
 featuredImage: https://ucarecdn.com/2db79a0a-440f-4763-b745-d75ecd20c1f1/
 meta:
   description: "\n"
