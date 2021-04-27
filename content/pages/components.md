@@ -30,12 +30,12 @@ video: https://ucarecdn.com/96d02f2a-c2e2-4ac1-9d53-c5fe2b02a663/
 videoPoster: https://ucarecdn.com/6aa5dac3-1802-457b-9ee9-dfd9c661c65d/
 videoTitle: Our Beans
 accordion:
-  - description: Coffee Details
-    title: Typica
-  - description: Coffee Details
-    title: Caturra
-  - description: Coffee Details
-    title: Yellow Caturra
+  - description: Picking the ripe beans
+    title: Searching
+  - description: Removing the pulp
+    title: Extraction
+  - description: Choosing only the best by hand
+    title: Selection
 gallery:
   - image: https://ucarecdn.com/bf0f1e50-ecce-42e4-90f0-60c3e603a4ff/
     title: Typica
