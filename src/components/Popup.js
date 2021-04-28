@@ -30,7 +30,7 @@ class Popup extends Component {
     return (
       <Fragment>
         <div className="taCenter">
-          <h3> Green Beans</h3>
+          <h3> Want to try our green beans?</h3>
           <div
             className="Button"
             onClick={this.togglePopup.bind(this)}
@@ -39,7 +39,7 @@ class Popup extends Component {
             aria-label="Toggle Popup"
             role="button"
           >
-            Click To Order Sample
+            Order A Sample 
           </div>
         </div>
         {this.state.showPopup ? (
