@@ -23,9 +23,7 @@ section1: >-
 
 
   Together with her partner Patricia Castañeda, they work in the local community as teachers in addition to taking care of their amazing coffee plantation and nature reserve. Over the course of 5 years, they have planted more than 4,000 trees to develop a beautiful project known as "A coffee to heal the forest"
-section2: >-
-  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/VeFucVagRkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+section2: "![]()"
 video: https://ucarecdn.com/96d02f2a-c2e2-4ac1-9d53-c5fe2b02a663/
 videoPoster: https://ucarecdn.com/6aa5dac3-1802-457b-9ee9-dfd9c661c65d/
 videoTitle: Our Beans
