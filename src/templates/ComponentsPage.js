@@ -8,7 +8,7 @@ import Accordion from '../components/Accordion'
 import BackgroundVideo from '../components/BackgroundVideo'
 import Gallery from '../components/Gallery'
 import Popup from '../components/Popup'
-import ContactPage from './ContactPage'
+import ContactPage, { ContactPageTemplate } from './ContactPage'
 
 // Export Template for use in CMS preview
 export const ComponentsPageTemplate = ({
@@ -64,7 +64,7 @@ export const ComponentsPageTemplate = ({
     <section className="section">
       <div className="container">
         <Popup>
-        <Content source={ContactPage} />
+        <Content source={ContactPageTemplate} />
         </Popup>
       </div>
     </section>
