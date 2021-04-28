@@ -63,7 +63,7 @@ export const ComponentsPageTemplate = ({
     <section className="section">
       <div className="container">
         <Popup>
-        <a href="https://www.melgo.co/contact/">Contact Page</a>
+        <Content source={contact} />
         </Popup>
       </div>
     </section>
