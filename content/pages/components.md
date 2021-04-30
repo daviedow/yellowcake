@@ -9,7 +9,7 @@ subtitle: |-
   #### **Single Origin Micro Lot**
 section1: >-
   Our partners Ana Milena and Patricia  are  wonderful women who are passionate
-  about coffee and are 5th generation of coffee farmers.
+  about coffee and are 5th generation coffee farmers.
 
 
   They long to share the exquisitely delicate coffee from their micro-farm located in a high altitude nature reserve 1,900 meters above sea level with the world. 
