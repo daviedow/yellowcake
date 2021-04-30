@@ -9,19 +9,19 @@ subtitle: |-
   #### **Single Origin Micro Lot**
 section1: >-
   Our partners Ana Milena and Patricia  are  wonderful women who are passionate
-  about coffee and the 5th generation of coffee farmers.
+  about coffee and are 5th generation of coffee farmers.
 
 
-  They longs to share the exquisitely delicate high altitude coffee (1,900 meters above sea level) with the world. Her micro-farm located in a nature reserve in Colombia.
+  They long to share the exquisitely delicate coffee from their micro-farm located in a high altitude nature reserve 1,900 meters above sea level with the world. 
 
 
-  The coffee is washed in the mountain waters from an advanced ecological system, and after its honey and washing residues go into purification tanks before the land receives them back as a nurishing compost.
+  The coffee is washed in the mountain waters with an advanced ecological system, and after its honey and washing residues go into purification tanks before the land receives them back as a nurishing compost.
 
 
-  The pulp of this coffee gets sent to the United States to make delicious infusions and it has been classified among the 13 best farms for its taste and standout ecological practices.
+  The pulp from this coffee gets sent to the United States to make delicious infusions and it has been classified among the 13 best farms for its taste and standout ecological practices.
 
 
-  They  work in the local community as teachers in addition to taking care of their amazing coffee. Over the course of 5 years, they have planted more than 4,000 trees to develop a beautiful project known as "A coffee to heal the forest"
+  They  work in the local community as teachers in addition to taking care of their amazing coffee farm. Over the course of 5 years, they have planted more than 4,000 trees to develop a beautiful project known as "A coffee to heal the forest"
 section2: "![]()"
 video: https://ucarecdn.com/96d02f2a-c2e2-4ac1-9d53-c5fe2b02a663/
 videoPoster: https://ucarecdn.com/6aa5dac3-1802-457b-9ee9-dfd9c661c65d/
