@@ -8,12 +8,11 @@ subtitle: |-
 
   #### **Single Origin Micro Lot**
 section1: >-
-  Our partner Ana Milena Ortega is a wonderful woman who is passionate about
-  coffee, when she speaks you can see the knowledge & love for the land and her
-  plantation pouring out.
+  Our partners Ana Milena and Patricia  are  wonderful women who are passionate
+  about coffee and the 5th generation of coffee farmers.
 
 
-  She longs to share the exquisitely delicate high altitude coffee (1,900 meters above sea level) with the world. Her micro-farm located in a nature reserve fed by the Campo Alegrito river that flows down from the snowy peaks in Santa Rosa de Cabal, Colombia.
+  They longs to share the exquisitely delicate high altitude coffee (1,900 meters above sea level) with the world. Her micro-farm located in a nature reserve in Colombia.
 
 
   The coffee is washed in the mountain waters from an advanced ecological system, and after its honey and washing residues go into purification tanks before the land receives them back as a nurishing compost.
@@ -22,7 +21,7 @@ section1: >-
   The pulp of this coffee gets sent to the United States to make delicious infusions and it has been classified among the 13 best farms for its taste and standout ecological practices.
 
 
-  Together with her partner Patricia Castañeda, they work in the local community as teachers in addition to taking care of their amazing coffee plantation and nature reserve. Over the course of 5 years, they have planted more than 4,000 trees to develop a beautiful project known as "A coffee to heal the forest"
+  They  work in the local community as teachers in addition to taking care of their amazing coffee. Over the course of 5 years, they have planted more than 4,000 trees to develop a beautiful project known as "A coffee to heal the forest"
 section2: "![]()"
 video: https://ucarecdn.com/96d02f2a-c2e2-4ac1-9d53-c5fe2b02a663/
 videoPoster: https://ucarecdn.com/6aa5dac3-1802-457b-9ee9-dfd9c661c65d/
@@ -30,7 +29,9 @@ videoTitle: Our Beans
 accordion:
   - description: Coffee details
     title: Typica
-  - description: Coffee details
+  - description: "Caturra Amarillo.   COUNTRY: Colombia REGION: Risaralda,  SCORE
+      RANGE : 86,5 NOTES: Caramel, medium balanced acidity, melon.  PROCESS:
+      Washed  DRYING PROCESS: Sun and parabolic"
     title: Yellow Caturra
   - description: Coffee details
     title: Caturra
