@@ -27,15 +27,15 @@ video: https://ucarecdn.com/96d02f2a-c2e2-4ac1-9d53-c5fe2b02a663/
 videoPoster: https://ucarecdn.com/6aa5dac3-1802-457b-9ee9-dfd9c661c65d/
 videoTitle: Our Beans
 accordion:
-  - description: "COUNTRY: Colombia,  REGION: Risaralda,  CUPPING SCORE :
+  - description: "COUNTRY: Colombia,  REGION: Risaralda,  CUPPING SCORE:
       84.5,  NOTES: Cinnamon, Cereal & Fruits,  PROCESS: Washed,  DRYING
       PROCESS: Sun and parabolic"
     title: Typica
-  - description: "COUNTRY: Colombia,  REGION: Risaralda,  SCORE RANGE :
-      86.5,  NOTES: Caramel, Acidity, Melon,  PROCESS: Washed,  DRYING PROCESS:
-      Sun & Parabolic"
+  - description: "COUNTRY: Colombia,  REGION: Risaralda,  SCORE RANGE: 86.5,  NOTES:
+      Caramel, Acidity, Melon,  PROCESS: Washed,  DRYING PROCESS: Sun &
+      Parabolic"
     title: Yellow Caturra
-  - description: " COUNTRY: Colombia,  REGION: Risaralda,  CUPPING SCORE :
+  - description: " COUNTRY: Colombia,  REGION: Risaralda,  CUPPING SCORE:
       85,  NOTES: Vanilla, Caramel, Cherry,  PROCESS: Washed,  DRYING PROCESS:
       Sun & Parabolic"
     title: Caturra
