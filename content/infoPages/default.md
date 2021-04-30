@@ -8,5 +8,7 @@ meta:
   title: ""
   noindex: false
 ---
-I grew up in a tropical paradise drinking coffee at home, on terraces, with friends. Coffee has been a big part of my life and has been present in different ways always bringing energy, warmth, passion, and knowledge.  When I arrived in the U.K I was searching for Colombian coffee everywhere. After 2 years I thought it would be nice to share some of the best coffees I had in Colombia with my new home. That was the beginning of this amazing journey. 
-I am proud to have introduced coffee into the life of my partner and now we are both coffee aficionados with a passion. in Colombia, happy to share quality,  transparency and create new relationships with coffee farmers to bring the best coffee with social and environmental impact.
+# Our Story
+
+I grew up in the tropical paradise that is Cali Colombia, drinking coffee at home, on terraces, with friends. Coffee has been a big part of my upbringing and has been present in different ways, always bringing energy, warmth, passion, and knowledge.  When I arrived in the U.K I was forever searching for Colombian coffee everywhere I went and was surprised it wasn't as popular as I thought it would be. After 2 years I thought it would be nice to share some of the best coffees I had experienced in Colombia with my new home. That was the beginning of this amazing journey. 
+I am proud to have introduced coffee into the life of my partner and now we both consider ourselves coffee "aficionados". We want to connect our two worlds and we're super excited to connect the finest green beans Colombia has to offer with the amazing roasters that are in the UK, always with social and environmental impact as a priority.
