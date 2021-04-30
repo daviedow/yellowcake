@@ -33,7 +33,9 @@ accordion:
       RANGE : 86,5 NOTES: Caramel, medium balanced acidity, melon.  PROCESS:
       Washed  DRYING PROCESS: Sun and parabolic"
     title: Yellow Caturra
-  - description: Coffee details
+  - description: " COUNTRY: Colombia REGION: Risaralda,  SCORE RANGE : 85 NOTES:
+      Vanilla, Caramel and cherry  PROCESS: Washed  DRYING PROCESS: Sun and
+      parabolic"
     title: Caturra
 gallery:
   - image: https://ucarecdn.com/bf0f1e50-ecce-42e4-90f0-60c3e603a4ff/
