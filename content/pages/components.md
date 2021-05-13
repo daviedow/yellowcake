@@ -44,11 +44,11 @@ gallery:
     title: Searching
     alt: Searching
   - image: https://ucarecdn.com/9b629e1b-5a5d-46c2-a8f1-557d265f83a5/
-    alt: Removing the pulp
-    title: Removing the pulp
+    alt: Processing
+    title: Processing
   - image: https://ucarecdn.com/122051db-5b8c-471a-8e20-a9efe12c80b7/
-    alt: Selecting only the best
-    title: Selecting only the best
+    alt: "Selecting "
+    title: "Selecting "
 meta:
   description: " "
   title: Coffee Heaven
