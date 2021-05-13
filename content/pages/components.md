@@ -27,7 +27,7 @@ video: https://ucarecdn.com/96d02f2a-c2e2-4ac1-9d53-c5fe2b02a663/
 videoPoster: https://ucarecdn.com/6aa5dac3-1802-457b-9ee9-dfd9c661c65d/
 videoTitle: Our Beans
 accordion:
-  - description: "cupping score: 84.5,    tasting notes: CINNAMON, CEREAL & FRUITS "
+  - description: "cupping score: 84.5,    tasting notes: CINNAMON & MIXED BERRIES"
     title: Typica
   - description: "cupping score: 86.5,    tasting notes: CARAMEL & MELON"
     title: Yellow Caturra
