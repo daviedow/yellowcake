@@ -109,8 +109,8 @@ export class Navigation extends Component {
                 </div> */}
               </span>
             </div>
-            <NavLink to="/default/">Our Story</NavLink>
-            <NavLink to="/contact/">Hello</NavLink>
+            <NavLink to="/default/">Story</NavLink>
+            <NavLink to="/contact/">Contact</NavLink>
           </div>
           <button
             className="Button-blank Nav--MenuButton"
